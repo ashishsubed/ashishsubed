@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ashishsubed
 - 👀 I’m interested in web development and machine learning
-- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
